@@ -1,0 +1,6 @@
+c:\users\sergey\documents\visual studio 2017\Projects\Array7\Array7\bin\Debug\Array7.exe.config
+c:\users\sergey\documents\visual studio 2017\Projects\Array7\Array7\bin\Debug\Array7.exe
+c:\users\sergey\documents\visual studio 2017\Projects\Array7\Array7\bin\Debug\Array7.pdb
+c:\users\sergey\documents\visual studio 2017\Projects\Array7\Array7\obj\Debug\Array7.csprojResolveAssemblyReference.cache
+c:\users\sergey\documents\visual studio 2017\Projects\Array7\Array7\obj\Debug\Array7.exe
+c:\users\sergey\documents\visual studio 2017\Projects\Array7\Array7\obj\Debug\Array7.pdb
